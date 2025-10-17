@@ -47,7 +47,7 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 
 ### Contact
 
-- Email: Email: chlee@kias.re.kr (Chul‑hee Lee)
+- Email: chlee@kias.re.kr (Chul‑hee Lee)
 
 ### Supported by
 
