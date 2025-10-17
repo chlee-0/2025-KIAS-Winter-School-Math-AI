@@ -84,14 +84,14 @@ High‑level schedule; detailed times TBA.
 ### Day 1 (Tue): Arrival & Kickoff
 - Arrival/registration/lunch; opening + team kickoff; evening hacking.
 
-### Day 2 (Wed): Deep Work
-- Team hacking.
+### Day 2 (Wed): 
+- Talk 1; Team hacking.
 
-### Day 3 (Thu): Presentations & Banquet
-- Team presentations; banquet and networking.
+### Day 3 (Thu): 
+- Talk 2; Team presentations; banquet and networking.
 
 ### Day 4 (Fri): Closing & Departure
-- Closing talk; lunch; departure.
+- Talk 3; lunch; departure.
 
 
  
