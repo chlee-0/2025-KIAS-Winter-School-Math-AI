@@ -30,7 +30,7 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 
 ### Team Leads (tentative)
 
-- Ilkyoo Choi (HUFS / IBS)
+- Ilkyoo Choi (HUFS / DIMAG, IBS)
 - Byung-Hak Hwang (KIAS)
 - Jihoon Hyun (KAIST)
 - Chul‑hee Lee (KIAS)
