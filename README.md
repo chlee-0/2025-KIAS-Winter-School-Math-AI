@@ -1,4 +1,4 @@
-# 2025 KIAS Winter School on Mathematics and AI (Draft)
+# 2025 KIAS Winter School on Mathematics and AI
 
 **Temporary information page; official website coming soon.**
 
