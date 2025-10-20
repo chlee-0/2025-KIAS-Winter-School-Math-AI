@@ -40,8 +40,8 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 
 ### Speakers
 
-- Soonho Kong (Amazon Web Services, to be confirmed)
 - Dohyun Kwon (University of Seoul)
+- Kyu‑Hwan Lee (University of Connecticut / KIAS)
 - Hongseok Yang (KAIST)
 
 
@@ -60,11 +60,11 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 ### Talks
 Talk titles and abstracts TBA.
 
-#### Soonho Kong (Amazon Web Services, to be confirmed)
+#### Dohyun Kwon (University of Seoul)
 - Title: TBA
 - Abstract: TBA
 
-#### Dohyun Kwon (University of Seoul)
+#### Kyu‑Hwan Lee (University of Connecticut / KIAS)
 - Title: TBA
 - Abstract: TBA
 
@@ -88,7 +88,7 @@ High‑level schedule; detailed times TBA.
 - Talk 1; Team hacking.
 
 ### Day 3 (Thu): 
-- Talk 2; Team presentations; banquet and networking.
+- Talk 2; Team hacking; Team presentations; banquet and networking.
 
 ### Day 4 (Fri): Closing & Departure
 - Talk 3; lunch; departure.
