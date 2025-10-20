@@ -4,8 +4,8 @@
 
 ### TL;DR
 - Dates: December 2–5, 2025
-- Venue: Park Roche, Jeongseon — https://park-roche.com/
-- Apply Now: https://forms.gle/oaApy67SgbAsRrYMA (Google Form)
+- Venue: Park Roche, Jeongseon — <https://park-roche.com/>
+- Apply Now: <https://forms.gle/oaApy67SgbAsRrYMA> (Google Form)
 
 [Home](#home) | [Program](#program) | [Timetable](#timetable) | [Venue](#venue) | [Registration](#registration)
 
@@ -97,10 +97,10 @@ High‑level schedule; detailed times TBA.
  
 ## Venue
 
-- Park Roche, Jeongseon — https://park-roche.com/
+- Park Roche, Jeongseon — <https://park-roche.com/>
 
 ---
 
 ## Registration
 
-Apply Now: https://forms.gle/oaApy67SgbAsRrYMA (Google Form)
+Apply Now: <https://forms.gle/oaApy67SgbAsRrYMA> (Google Form)
