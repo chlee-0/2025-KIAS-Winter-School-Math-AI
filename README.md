@@ -19,8 +19,8 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 
 - Formalization (Lean), Autoformalization, Informalization
 - Machine Learning for Mathematics
-- Large Language Models (LLMs)
-- Reinforcement Learning (RL)
+- Large Language Models
+- Reinforcement Learning
 
 ### Organizers
 
