@@ -73,7 +73,7 @@ Talk titles and abstracts TBA.
 - Abstract: TBA
 
 ### Team Programs
-- Participants will be grouped into teams, each focusing on one of the following core themes. More detailed project descriptions will be provided later.
+- Participants will be grouped into teams; the application page currently lists only the titles of team project topics, and more detailed information will be provided later: <https://forms.gle/oaApy67SgbAsRrYMA>.
 
 ---
 
