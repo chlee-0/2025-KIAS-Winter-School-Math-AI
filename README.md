@@ -69,8 +69,8 @@ Talk titles and abstracts TBA.
 - Abstract: TBA
 
 #### Hongseok Yang (KAIST)
-- Title: TBA
-- Abstract: TBA
+- Title: Tackling asymptotic extremal problems in graph theory using neural networks
+- Abstract: Assisting mathematical discovery with machine learning techniques has been an active research topic in the machine-learning community in recent years, yielding impressive results such as the discovery of key insights into or counterexamples for open conjectures in knot theory, representation theory, arithmetic geometry and combinatorics. In this talk, I will describe our ongoing efforts for extending this line of research to extremal combinatorics. We consider the asymptotic extremal problems on graphs, which are just a particular type of optimisation problems on an infinite limiting version of graphs, called graphons. We aim at helping prove or disprove open conjectures for such problems using tools from machine learning. Our idea is to represent these infinite limiting graphs using carefully-designed neural networks, and to solve these optimisation problems using gradient descent. I will describe what challenges we encountered, how we overcame those challenges by designing a particular architecture for neural networks inspired by the popular diffusion model, and what new insights into the well-known asymptotic extremal problems we gained by our approach. This is joint work with Taeyoung Kim from KAIST, Jineon Baek from KIAS, and Joonkyung Lee from Yonsei University.
 
 ### Team Programs
 - Participants will be grouped into teams; the application page currently lists only the titles of team project topics, and more detailed information will be provided later: <https://forms.gle/oaApy67SgbAsRrYMA>.
