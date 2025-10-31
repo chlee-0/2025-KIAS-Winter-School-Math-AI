@@ -97,9 +97,17 @@ High‑level schedule; detailed times TBA.
  
 ## Venue
 
-- Park Roche, Jeongseon — <https://park-roche.com/>
+- **Park Roche**, Jeongseon — <https://park-roche.com/>
 
----
+### Transportation
+
+- **Shuttle Bus (tentative)**
+  - A shuttle bus will be arranged between **KIAS** and **Park Roche** for participants.  
+  - **KIAS → Park Roche:** Dec 2 (Mon) 9:00 AM (approx. 3 h 30 min)  
+  - **Park Roche → KIAS:** Dec 5 (Thu) 1:30 PM (approx. 3 h 30 min)  
+  - *Times are subject to change.*
+
+
 
 ## Registration
 
