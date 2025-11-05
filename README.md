@@ -103,8 +103,8 @@ High‑level schedule; detailed times TBA.
 
 - **Shuttle Bus (tentative)**
   - A shuttle bus will be arranged between **KIAS** and **Park Roche** for participants.  
-  - **KIAS → Park Roche:** Dec 2 (Mon) 9:00 AM (approx. 3 h 30 min)  
-  - **Park Roche → KIAS:** Dec 5 (Thu) 1:30 PM (approx. 3 h 30 min)  
+  - **KIAS → Park Roche:** Dec 2 (Tue) 9:00 AM (approx. 3 h 30 min)  
+  - **Park Roche → KIAS:** Dec 5 (Fri) 1:30 PM (approx. 3 h 30 min)  
   - *Times are subject to change.*
 
 
