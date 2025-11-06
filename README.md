@@ -85,7 +85,7 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 #### Team 2
   - Team Lead: Hyojae Lim (RICAM)
   - Title: Autoformalization
-  - Abstract: TBA
+  - Abstract: This project explores autoformalization, the automatic translation of natural-language mathematical definitions into formal definitions in Lean. We focus on how large language models (LLMs) can be guided to produce Lean definitions based on the rules for defining data types, particularly inductive types. During the project, we will study how mathematical concepts and definitions can be represented in Lean, experiment with LLM-based translation pipelines, and analyze the interpretability and stability of the resulting formalizations. Participants will gain hands-on experience with Lean and LLM prompting; prior familiarity with Lean or Python programming will be helpful but not required.
 
 #### Team 3
   - Team Lead: Seewoo Lee (UC Berkeley)
