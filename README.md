@@ -62,13 +62,13 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
  - Title: Generative Modeling Through the Lens of Optimal Transport
  - Abstract: Generative models have achieved remarkable success across a wide range of machine learning tasks. This talk presents a unified perspective on generative modeling through the lens of optimal transport, viewing learning as an optimization problem over the space of probability measures. We will explore how this framework inspires connections between diffusion models, energy-based models, and GANs. Along the way, we will highlight recent advances and discuss how these ideas extend new directions for advancing generative models.
 
-· · ·
+⋯
 
  - Speaker: Kyu‑Hwan Lee (University of Connecticut / KIAS)
  - Title: TBA
  - Abstract: TBA
 
-· · ·
+⋯ 
 
  - Speaker: Hongseok Yang (KAIST)
  - Title: Tackling asymptotic extremal problems in graph theory using neural networks
@@ -120,6 +120,8 @@ High‑level schedule; detailed times TBA.
 ### Day 4 (Fri): Closing & Departure
 - Talk 3; lunch; departure.
 
+
+---
 
  
 ## Venue
