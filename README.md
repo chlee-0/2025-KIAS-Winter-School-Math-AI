@@ -77,6 +77,22 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 ### Team Programs
 - Participants will be grouped into teams; the application page currently lists only the titles of team project topics, and more detailed information will be provided later: <https://forms.gle/oaApy67SgbAsRrYMA>.
 
+#### Team 1
+  - Team Leads: Byung-Hak Hwang (KIAS), Ilkyoo Choi (HUFS / DIMAG, IBS)
+  - Title: ML and Discrete Mathematics
+  - Abstract: Our team will explore FunSearch! We aim to understand (1) how FunSearch works, (2) what kinds of mathematics FunSearch can handle, (3) how to use FunSearch in practice, and then (4) we will apply FunSearch to some combinatorial problems. No specific background is required, but familiarity with combinatorics, machine learning, or programming in Python will be helpful.
+
+#### Team 3
+  - Team Lead: Seewoo Lee (UC Berkeley)
+  - Title: ML and Number Theory
+  - Abstract: The main goal of our group is to use (classical/modern) ML algorithms to predict number-theoretic invariants. Before the winter school, we are going to learn basic ML algorithms and how they can be used to solve easy problems in number theory. Then we will consider more advanced topics, including Artin representations and abelian varieties over finite fields, aiming for discovering new phenomena. We assume that members are familiar with graduate-level number theory but not assuming any background on machine learning.
+
+
+#### Team 4
+  - Team Lead: Chul‑hee Lee (KIAS)
+  - Title: Reinforcement Learning and Canonical Forms in Mathematics
+  - Abstract: This project explores how reinforcement learning (RL) can be applied to the process of reducing mathematical objects to their canonical forms. RL is a framework in which an agent learns to take sequential actions through interaction with an environment, guided by rewards and feedback. From this viewpoint, it seems plausible to explore step-by-step procedures such as Gaussian elimination through the lens of RL. During the preparatory phase, participants will study the fundamentals of RL and gain hands-on experience in simple environments using tools such as Gymnasium. We then treat various standardization processes as agent-driven search problems, examining how RL can replicate or extend traditional algorithmic methods. Background in Python programming and undergraduate-level abstract algebra will be helpful.
+
 ---
 
 ## Timetable
