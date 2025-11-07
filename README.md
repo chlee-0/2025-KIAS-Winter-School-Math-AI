@@ -65,8 +65,8 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 ⋯
 
  - Speaker: Kyu‑Hwan Lee (University of Connecticut / KIAS)
- - Title: TBA
- - Abstract: TBA
+ - Title: Mathematical Data Science
+ - Abstract: Can machine learning help discover new mathematical structures? In this talk we discuss an approach to doing this which one can call "mathematical data science". This paradigm involves studying mathematical objects collectively rather than individually by constructing datasets and conducting machine learning experiments and interpretations. After an overview, I will present two case studies: (1) murmurations in number theory and (2) loadings of partitions related to Kronecker coefficients in representation theory and combinatorics. This talk is based on my joint article (arXiv:2502.08620) with Michael Douglas.
 
 ⋯ 
 
