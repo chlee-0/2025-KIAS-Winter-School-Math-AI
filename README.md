@@ -5,7 +5,7 @@
 ### TL;DR
 - Dates: December 2–5, 2025
 - Venue: Park Roche, Jeongseon — <https://park-roche.com/>
-- Apply Now: <https://forms.gle/oaApy67SgbAsRrYMA> (Google Form; application deadline: Nov 13, 18:00 KST)
+~~- Apply Now: <https://forms.gle/oaApy67SgbAsRrYMA> (Google Form; application deadline: Nov 13, 18:00 KST)~~
 
 [Home](#home) | [Program](#program) | [Timetable](#timetable) | [Venue](#venue) | [Registration](#registration)
 
@@ -140,4 +140,4 @@ High‑level schedule; detailed times TBA.
 
 ## Registration
 
-Apply Now: <https://forms.gle/oaApy67SgbAsRrYMA> (Google Form; application deadline: Nov 13, 18:00 KST)
+~~Apply Now: <https://forms.gle/oaApy67SgbAsRrYMA> (Google Form; application deadline: Nov 13, 18:00 KST)~~
