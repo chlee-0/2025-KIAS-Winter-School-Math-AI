@@ -14,9 +14,9 @@
 
 ## Home
 
-The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑style program at the intersection of mathematics and AI. Teams work in parallel on hands‑on projects in math‑for‑AI, AI‑for‑math, and formalization. The program also includes invited talks on related topics.
+The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑style program at the intersection of mathematics and AI. It brings together researchers exploring new connections between the two fields to experiment, collaborate, and pursue future research directions. Teams work in parallel on hands‑on projects in math‑for‑AI, AI‑for‑math, and formalization. The program also includes invited talks on related topics.
 
-### Topics & Keywords (tentative)
+### Topics & Keywords
 
 - Formalization (Lean), Autoformalization, Informalization
 - Machine Learning for Mathematics
@@ -29,7 +29,7 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 - Chul‑hee Lee (KIAS)
 - Kyu‑Hwan Lee (University of Connecticut / KIAS)
 
-### Team Leads (tentative)
+### Team Leads
 
 - Ilkyoo Choi (HUFS / DIMAG, IBS)
 - Byung-Hak Hwang (KIAS)
@@ -76,29 +76,29 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
  - Abstract: Assisting mathematical discovery with machine learning techniques has been an active research topic in the machine-learning community in recent years, yielding impressive results such as the discovery of key insights into or counterexamples for open conjectures in knot theory, representation theory, arithmetic geometry and combinatorics. In this talk, I will describe our ongoing efforts for extending this line of research to extremal combinatorics. We consider the asymptotic extremal problems on graphs, which are just a particular type of optimisation problems on an infinite limiting version of graphs, called graphons. We aim at helping prove or disprove open conjectures for such problems using tools from machine learning. Our idea is to represent these infinite limiting graphs using carefully-designed neural networks, and to solve these optimisation problems using gradient descent. I will describe what challenges we encountered, how we overcame those challenges by designing a particular architecture for neural networks inspired by the popular diffusion model, and what new insights into the well-known asymptotic extremal problems we gained by our approach. This is joint work with Taeyoung Kim from KAIST, Jineon Baek from KIAS, and Joonkyung Lee from Yonsei University.
 
 ### Team Programs
-- Participants will be grouped into teams; the application page currently lists only the titles of team project topics, and more detailed information will be provided later: <https://forms.gle/oaApy67SgbAsRrYMA>.
 
-#### Team 1
+
+#### Team FS (FunSearch)
   - Team Leads: Byung-Hak Hwang (KIAS), Ilkyoo Choi (HUFS / DIMAG, IBS)
   - Title: ML and Discrete Mathematics
   - Abstract: Our team will explore FunSearch! We aim to understand (1) how FunSearch works, (2) what kinds of mathematics FunSearch can handle, (3) how to use FunSearch in practice, and then (4) we will apply FunSearch to some combinatorial problems. No specific background is required, but familiarity with combinatorics, machine learning, or programming in Python will be helpful.
 
-#### Team 2
+#### Team AF (Autoformalization)
   - Team Lead: Hyojae Lim (RICAM)
   - Title: Autoformalization
   - Abstract: This project explores autoformalization, the automatic translation of natural-language mathematical definitions into formal definitions in Lean. We focus on how large language models (LLMs) can be guided to produce Lean definitions based on the rules for defining data types, particularly inductive types. During the project, we will study how mathematical concepts and definitions can be represented in Lean, experiment with LLM-based translation pipelines, and analyze the interpretability and stability of the resulting formalizations. Participants will gain hands-on experience with Lean and LLM prompting; prior familiarity with Lean or Python programming will be helpful but not required.
 
-#### Team 3
+#### Team NT
   - Team Lead: Seewoo Lee (UC Berkeley)
   - Title: ML and Number Theory
   - Abstract: The main goal of our group is to use (classical/modern) ML algorithms to predict number-theoretic invariants. Before the winter school, we are going to learn basic ML algorithms and how they can be used to solve easy problems in number theory. Then we will consider more advanced topics, including Artin representations and abelian varieties over finite fields, aiming for discovering new phenomena. We assume that members are familiar with graduate-level number theory but not assuming any background on machine learning.
 
-#### Team 4
+#### Team RL
   - Team Lead: Chul‑hee Lee (KIAS)
   - Title: Reinforcement Learning and Canonical Forms in Mathematics
   - Abstract: This project explores how reinforcement learning (RL) can be applied to the process of reducing mathematical objects to their canonical forms. RL is a framework in which an agent learns to take sequential actions through interaction with an environment, guided by rewards and feedback. From this viewpoint, it seems plausible to explore step-by-step procedures such as Gaussian elimination through the lens of RL. During the preparatory phase, participants will study the fundamentals of RL and gain hands-on experience in simple environments using tools such as Gymnasium. We then treat various standardization processes as agent-driven search problems, examining how RL can replicate or extend traditional algorithmic methods. Background in Python programming and undergraduate-level abstract algebra will be helpful.
 
-#### Team 6
+#### Team FM (Formalization)
   - Team Lead: Jihoon Hyun (KAIST)
   - Title: Formalization
   - Abstract: TBA
@@ -107,20 +107,35 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 
 ## Timetable
 
-High‑level schedule; detailed times TBA.
+### Day 1 (Tue, Dec 2)
+09:20 - 12:40 Departure: KIAS → Park Roche  
+12:40 - 14:30 Lunch & check-in  
+14:30 - 14:50 Welcome remarks & brief introduction to the program  
+14:50 - 18:00 Team project session  
+18:15 - 20:00 Dinner  
 
-### Day 1 (Tue): Arrival & Kickoff
-- Arrival/registration/lunch; opening + team kickoff; evening hacking.
+### Day 2 (Wed, Dec 3)
+09:20 - 10:20 Talk 1: Dohyun Kwon (University of Seoul)  
+10:20 - 10:30 Discussion  
+10:30 - 12:20 Team project session  
+12:30 - 14:00 Lunch  
+14:00 - 18:00 Team project session (with a brief midterm report)  
+18:15 - 20:00 Dinner  
 
-### Day 2 (Wed): 
-- Talk 1; Team hacking.
+### Day 3 (Thu, Dec 4)
+09:20 - 10:20 Talk 2: Kyu‑Hwan Lee (University of Connecticut / KIAS)  
+10:20 - 10:30 Discussion  
+10:30 - 12:20 Team project session  
+12:30 - 14:00 Lunch  
+14:00 - 18:00 Team project session and final team presentations  
+18:15 - 20:00 Dinner  
 
-### Day 3 (Thu): 
-- Talk 2; Team hacking; Team presentations; banquet and networking.
+### Day 4 (Fri, Dec 5)
+09:20 - 10:20 Talk 3: Hongseok Yang (KAIST)  
+10:20 - 12:20 Discussion  
+12:20         Lunch & return to KIAS
 
-### Day 4 (Fri): Closing & Departure
-- Talk 3; lunch; departure.
-
+*Note: The seminar room will be open in the evenings for informal use (project work, discussions, self‑study).*
 
 ---
 
@@ -131,9 +146,9 @@ High‑level schedule; detailed times TBA.
 
 ### Transportation
 
-- **Shuttle Bus (tentative)**
+- **Shuttle Bus**
   - A shuttle bus will be arranged between **KIAS** and **Park Roche** for participants.  
-  - **KIAS → Park Roche:** Dec 2 (Tue) 9:00 AM (approx. 3 h 30 min)  
+  - **KIAS → Park Roche:** Dec 2 (Tue) 9:20 AM (approx. 3 h 30 min)  
   - **Park Roche → KIAS:** Dec 5 (Fri) 1:30 PM (approx. 3 h 30 min)  
   - *Times are subject to change.*
 
