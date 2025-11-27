@@ -78,7 +78,7 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 ### Team Programs
 
 
-#### Team FS (FunSearch)
+#### Team DM
   - Team Leads: Byung-Hak Hwang (KIAS), Ilkyoo Choi (HUFS / DIMAG, IBS)
   - Title: ML and Discrete Mathematics
   - Abstract: Our team will explore FunSearch! We aim to understand (1) how FunSearch works, (2) what kinds of mathematics FunSearch can handle, (3) how to use FunSearch in practice, and then (4) we will apply FunSearch to some combinatorial problems. No specific background is required, but familiarity with combinatorics, machine learning, or programming in Python will be helpful.
@@ -119,7 +119,7 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 10:20 - 10:30 Discussion  
 10:30 - 12:20 Team project session  
 12:30 - 14:00 Lunch  
-14:00 - 18:00 Team project session (with a brief midterm report)  
+14:00 - 18:00 Team project session and brief progress reports
 18:15 - 20:00 Dinner  
 
 ### Day 3 (Thu, Dec 4)
@@ -134,6 +134,8 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 09:20 - 10:20 Talk 3: Hongseok Yang (KAIST)  
 10:20 - 12:20 Discussion  
 12:20         Lunch & return to KIAS
+
+*Note: Meals from lunch on Tue, Dec 2 to lunch on Fri, Dec 5 (10 meals in total) will be provided by the organizers.*
 
 *Note: The seminar room will be open in the evenings for informal use (project work, discussions, self‑study).*
 
