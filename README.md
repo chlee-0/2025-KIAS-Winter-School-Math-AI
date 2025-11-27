@@ -52,7 +52,7 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 
 ### Supported by
 
-- Korea Institute for Advanced Study (KIAS), HCMC
+- HCMC, Korea Institute for Advanced Study (KIAS)
 
 ---
 
