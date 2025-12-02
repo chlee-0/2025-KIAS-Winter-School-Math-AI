@@ -93,7 +93,9 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 #### Team FM (Formalization)
   - Team Lead: Jihoon Hyun (KAIST)
   - Title: Formalization
-  - Abstract: TBA
+  - Abstract: Formalizing mathematics is a topic which earned much interest recently. Our team will formalize several extremal problems in combinatorics in Lean4. Especially, we consider 0-1 pattern matrices of small size, and bound the number of n-by-n matrices which avoids the pattern, and observe related theorems. Throughout the program, we aim to excessively use Lean4 with Mathlib4 by defining and formalizing the above statement.
+
+
 
 ---
 
