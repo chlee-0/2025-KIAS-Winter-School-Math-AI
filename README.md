@@ -113,7 +113,7 @@ The 2025 KIAS Winter School on Mathematics and AI is a four‑day hackathon‑st
 10:20 - 10:30 Discussion  
 10:30 - 12:20 Team project session  
 12:30 - 14:00 Lunch  
-14:00 - 18:00 Team project session and brief progress reports 
+14:00 - 18:00 Team project session and brief progress reports  
 18:15 - 20:00 Dinner  
 
 ### Day 3 (Thu, Dec 4)
